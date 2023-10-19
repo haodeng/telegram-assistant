@@ -25,7 +25,7 @@ addEventListener('fetch', (event) => {
   }
   
   async function sendMessage(chatId, text) {
-    const token = '6852559114:AAHtrJWcU8h6B3KlLXvgu-oKoXcc2_MEgXE';
+    const token = '<TOKEN>';
     const apiUrl = `https://api.telegram.org/bot${token}/sendMessage`;
   
     const data = {
