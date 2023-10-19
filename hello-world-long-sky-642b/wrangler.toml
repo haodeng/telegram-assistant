@@ -1,0 +1,8 @@
+name = "hello-world-long-sky-642b"
+main = "src/index.js"
+compatibility_date = "2023-10-19"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
